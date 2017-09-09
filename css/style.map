@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/style.css",
+	"sources": [
+		"../sass/style.scss"
+	],
+	"sourcesContent": [
+		"h1{\r\n    font-size: 100px;\r\n}"
+	],
+	"mappings": ";AAAA,AAAA,EAAE,CAAA;EACE,SAAS,EAAE,KAAM;CACpB",
+	"names": []
+}
