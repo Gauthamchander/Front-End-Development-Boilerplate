@@ -6,3 +6,6 @@ Jquery
 SASS
 Font Awesome
 WOW.js
+
+# I have included Normalize.css and reset.css in the boilerplate. use anyone of the pacakage which your comfortable with and delete the other one
+make sure to map the file in index.html
